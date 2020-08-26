@@ -1,2 +1,2 @@
-# automated_junk
-Not worth anyone's time
+### Automating file uploads to Github
+Purely a test repository
